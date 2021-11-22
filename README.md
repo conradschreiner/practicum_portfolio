@@ -2,7 +2,7 @@
  ## My Favorite Projects from the Practicum by Yandex Data Analyst Course
 
 The repository is organized by folders: 
- - final_project, 
+ - final_project 
  - integrated_project
  - forecasting_project 
  - lastly business_decisions_project

@@ -7,4 +7,4 @@ The repository is organized by folders:
  - forecasting_project 
  - lastly business_decisions_project
 
-Each folders contains a jupyter notebook .ipynb file and a readme with a brief description of the project. 
+Each folder contains a jupyter notebook .ipynb file and a readme with a brief description of the project. 
